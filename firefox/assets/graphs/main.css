@@ -1,0 +1,17 @@
+/*
+//   - This file is part of LichessHelper Extension
+//  <https://github.com/gerwld/LichessHelper-extension/blob/main/README.md>,
+//   - Copyright (C) 2023-present LichessHelper Extension
+//   -
+//   - LichessHelper Extension is a software: you can redistribute it, but you are not allowed to modify it under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
+//   -
+//   - LichessHelper Extension is distributed in the hope that it will be useful,
+//   - but WITHOUT ANY WARRANTY; without even the implied warranty of
+//   - MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//   - Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License for more details.
+//   -
+//   - You should have received a copy of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License
+//   - along with LichessHelper Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+*/
+
+body,html{-ms-scroll-chaining:none!important;overscroll-behavior:none!important}@-webkit-keyframes board_appear{0%{opacity:0}50%{opacity:0}100%{opacity:1}}@keyframes board_appear{0%{opacity:0}50%{opacity:0}100%{opacity:1}}@-webkit-keyframes lg_appear{0%{opacity:0}50%{opacity:0}100%{opacity:1}}@keyframes lg_appear{0%{opacity:0}50%{opacity:0}100%{opacity:1}}@-webkit-keyframes lg2_appear{0%{opacity:0}80%{opacity:0}100%{opacity:1}}@keyframes lg2_appear{0%{opacity:0}80%{opacity:0}100%{opacity:1}}body{-webkit-animation:lg2_appear 250ms linear both;animation:lg2_appear 250ms linear both}cg-board{-webkit-animation:board_appear .3s ease both;animation:board_appear .3s ease both}.site-title a{-webkit-animation:lg_appear .5s ease both;animation:lg_appear .5s ease both}@media (min-width:979.3px) and (min-height:600px){.fullscreen_pgl{right:160px!important}}
