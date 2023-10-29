@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chesshelper/lichesshelper/6bbec98b0c8225fdad5e0479724bb7bc45784b49/chrome/assets/img/logo.svg" width="85" height="85"/>
+  <img src="https://raw.githubusercontent.com/chesshelper/lichesshelper/6bbec98b0c8225fdad5e0479724bb7bc45784b49/chrome/assets/img/logo.svg" width="90" height="90"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chesshelper/chesshelper/9c769c34bdac9ef0f4f7bd07dfb94afd0793ca0d/chrome/assets/img/text.svg" width="450px" height="auto"/>
+  <img src="https://raw.githubusercontent.com/chesshelper/lichesshelper/384a29fa2ff627e7f90a33ea5147982747ea07a6/chrome/assets/img/text.svg" width="460px" height="auto"/>
 </p>
 
 <p align="center">
