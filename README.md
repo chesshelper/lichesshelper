@@ -19,7 +19,7 @@ Get new Lichess.org themes, pieces, and boards. Disable annoying notifications, 
 ## About
 
 Extension for Lichess.org I made as a chess enjoyer to make this service even better. 
-I love Lichess.org, but... There's always thing that you want to improve just because you use it a lot. So I've spent almost 4 weeks to make it perfect. <br> Most of the pieces, and boards were also created by me (thanks to some design knowledge that I kept). Let me know what you think about this. Because I want to make it as good as possible. Also don't forget to donate, or leave a comment if you enjoy it!
+I love Lichess, but there are always things that you want to improve just because you use something quite often. <br> Most of the pieces, and boards were also created by me, but some of them are from the web with GNU / CC0 License. Let me know what you think about this - any feedback is appreciated.
 
 
 ## Installation
