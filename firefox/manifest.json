@@ -1,13 +1,14 @@
 {
   "manifest_version": 2,
-  "name": "LichessHelper - Improve Lichess.org Experience",
-  "description": "2023 Lichess.org extension that allows you to set up new themes, pieces, boards, and fonts, remove annoying notifications, popups, and so on!",
-  "version": "1.0.0",
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
+  "version": "2.1.0.0",
   "icons": {
     "128": "assets/icons/icon128.png"
   },
   "browser_action": {
-    "default_popup": "popup.html",
+    "default_popup": "/content/popup.html",
     "default_icon": {
       "128": "assets/icons/icon128.png"
     }
@@ -36,12 +37,19 @@
     "persistent": false
   },
   "web_accessible_resources": [
+    "/assets/img/logo.svg",
     "/assets/img/lclogo.svg",
     "/assets/img/lclogo_wh.svg",
+    "/assets/img/frog.gif",
+    "/assets/img/cub_border.png",
     "/assets/icons/1.svg",
     "/assets/icons/2.svg",
     "/assets/icons/3.svg",
     "/assets/icons/4.svg",
+    "/assets/img/br_main/emerald.png",
+    "/assets/img/br_main/industrial.png",
+    "/assets/graphs/boards/emerald.css",
+    "/assets/graphs/boards/industrial.css",
     "/assets/graphs/prevent_scroll.css",
     "/assets/graphs/modern_mode.css",
     "/assets/graphs/hide_chat.css",

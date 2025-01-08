@@ -1,0 +1,173 @@
+{
+  "extensionName": {
+    "message": "Lichess Custom Themes, Boards - LichessHelper"
+  },
+  "extensionDescription": {
+    "message": "2025 Règlez des nouviaz tins, pièces, polices et plancs, disparez des notifications embêtantes, des popups, et cetera."
+  },
+  "disabled": {
+    "message": "Vos avoz disactivé LichessHelper"
+  },
+  "header_title": {
+    "message": "Extension LichessHelper"
+  },
+  "header_subtitle": {
+    "message": "Nos amons Lichess ! Fasons-li ancor miex."
+  },
+  "btn_donate": {
+    "message": "Fay on don"
+  },
+  "btn_support": {
+    "message": "Akovoyîz do spire"
+  },
+  "btn_reqfeature": {
+    "message": "Demanjîz on carauté"
+  },
+  "btn_goback": {
+    "message": "retôrnî"
+  },
+  "menu_main": {
+    "message": "Caractérisitikes pricipåles :"
+  },
+  "menu_sec": {
+    "message": "Caractérisitikes aditionèles :"
+  },
+  "menu_palette": {
+    "message": "Paleta d' côleurs / police :"
+  },
+  "n_default": {
+    "message": "Par défaut"
+  },
+  "mi_1": {
+    "message": "Aktiver \"Modo d' focûs\" \n (li miex por les Streams et les Bullets)"
+  },
+  "mi_4": {
+    "message": "Disaktiver li popup \"A prôpos di mi\""
+  },
+  "mi_5": {
+    "message": "Disaktiver li tchatchêye"
+  },
+  "mi_7": {
+    "message": "Appliquéz on hausteur fixe a 100% al planke"
+  },
+  "mi_8": {
+    "message": "Faire les coordonnêyes pus grandes"
+  },
+  "mi_9": {
+    "message": "Coordonnêyes sur chaque carré"
+  },
+  "mi_10": {
+    "message": "Paleta d' côleurs / police :"
+  },
+  "mi_11": {
+    "message": "Les rende mins veyes"
+  },
+  "mi_12": {
+    "message": "Controls di timps pus grands"
+  },
+  "mi_13": {
+    "message": "Disaktiver l' cangiye del cursor sor l' survoladje"
+  },
+  "mi_17": {
+    "message": "Alerdje on boton rixhe al drwete po l' écrin complet"
+  },
+  "fonts_title": {
+    "message": "Elijez on stile:"
+  },
+  "themes_title": {
+    "message": "Elijez on tins:"
+  },
+  "themes_label": {
+    "message": "NOVEÅ"
+  },
+  "theme_1": {
+    "message": "Par défaut (Vêr foncé)"
+  },
+  "d_title": {
+    "message": "Les dons gardèt LichessHelper dins l' eûre."
+  },
+  "d_subtitle": {
+    "message": "Dj' passes des eures tot semene å côrigitîr des bugs, a djiouter et a ralîxhî l' eûre, et a rèsoudre vos feedbacks. Vovre sopoirt est cruciåle po l' entreténmint côntinwé!"
+  },
+  "d_pp": {
+    "message": "Fay on don via PayPal"
+  },
+  "d_kofi": {
+    "message": "Sopoirtoz-mi sor Ko-Fi"
+  },
+  "d_card": {
+    "message": "Fay on don avou vos cartes di crédit ou di d' bîtches"
+  },
+  "d_cred__1": {
+    "message": "Vos savoz åsse ossî côparti LichessHelper avou vos candjås ou lèxhoz on"
+  },
+  "d_cred__2": {
+    "message": "rapôrt"
+  },
+  "d_cred__3": {
+    "message": "Mèrcî."
+  },
+  "s_title": {
+    "message": "Vos avez des problèmes avou LichessHelper?"
+  },
+  "s_subtitle": {
+    "message": "Vos troveroz cî des ateraz åsseyî :"
+  },
+  "s_res__1": {
+    "message": "Rafraîchîz l' pådje Lichess."
+  },
+  "s_res__2": {
+    "message": "Disaktiver et aprés raketîz LichessHelper."
+  },
+  "s_res__3": {
+    "message": "Disaktiver les ôtes estinsyons."
+  },
+  "s_res__4": {
+    "message": "Disinstaller et rinstaller LichessHelper."
+  },
+  "s_res__5": {
+    "message": "Netoyîz li cache del brosseure."
+  },
+  "s_emailme": {
+    "message": "Si li problème est ancor la, svplî, m' emaler a"
+  },
+  "s_effic": {
+    "message": "Po m' aidîr a vos assister pås eficåt, mèrcî d' inklure cî-infôrmåcions ci:"
+  },
+  "s_detail__1": {
+    "message": "L' vêrsion di LichessHelper ki vos estoz uzeut."
+  },
+  "s_detail__2": {
+    "message": "On screnshot ou ene vîdéo k' ilostrîye li problème."
+  },
+  "s_detail__3": {
+    "message": "On djotî discrijhaedje di l' afeure."
+  },
+  "s_detail__4": {
+    "message": "Vosse brosseure et s' vêrsion (p. èg., Firefox 86.0)."
+  },
+  "menu_pboard": {
+    "message": "Pièces / Planke custom:"
+  },
+  "menu_pieces": {
+    "message": "Elijez les pièces:"
+  },
+  "menu_board": {
+    "message": "Elijez l' planke:"
+  },
+  "menu_boardfeat": {
+    "message": "Caractérisitikes del planke:"
+  },
+  "mi_2": {
+    "message": "Aktiver li tchae moderne"
+  },
+  "mi_14": {
+    "message": "Disakiver li defilaedje des mouvants d' tavle \n(pou les trackpads, etc)"
+  },
+  "mi_18": {
+    "message": "Cache li tecse so l'tavle"
+  },
+  "mi_19": {
+    "message": "Empêce li defilaedje dins l'match (100vh rixhe)"
+  }
+}

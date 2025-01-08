@@ -1,0 +1,194 @@
+{
+  "extensionName": {
+    "message": "Lichess eigene Themen, Bretter: LichessHelper"
+  },
+  "extensionDescription": {
+    "message": "2025 Installieren Sie neue Themen, Figuren, Schriftarten und Bretter, fügen Sie Notationen auf jedem Feld hinzu, entfernen Sie lästige Benachrichtigungen, Pop-ups usw.!"
+  },
+  "disabled": {
+    "message": "Sie haben LichessHelper deaktiviert"
+  },
+  "header_title": {
+    "message": "LichessHelper-Erweiterung"
+  },
+  "header_subtitle": {
+    "message": "Wir lieben Lichess! Machen wir es noch besser!"
+  },
+  "btn_donate": {
+    "message": "Spenden"
+  },
+  "btn_support": {
+    "message": "Unterstützung erhalten"
+  },
+  "btn_reqfeature": {
+    "message": "Feature anfragen"
+  },
+  "btn_goback": {
+    "message": "zurück"
+  },
+  "menu_main": {
+    "message": "Hauptfunktionen:"
+  },
+  "menu_sec": {
+    "message": "Zusätzliche Funktionen:"
+  },
+  "menu_palette": {
+    "message": "Farbpalette / Schriftart:"
+  },
+  "n_default": {
+    "message": "Standard"
+  },
+  "mi_1": {
+    "message": "Aktiviere den \"Fokusmodus\" \n (am besten für Streams und Bullet)"
+  },
+  "mi_4": {
+    "message": "\"Über mich\"-Popup deaktivieren"
+  },
+  "mi_5": {
+    "message": "Chat deaktivieren"
+  },
+  "mi_7": {
+    "message": "Brett auf 100% fester Höhe setzen"
+  },
+  "mi_8": {
+    "message": "Koordinaten vergrößern"
+  },
+  "mi_9": {
+    "message": "Koordinaten auf jedem Feld"
+  },
+  "mi_10": {
+    "message": "Farbpalette / Schriftart:"
+  },
+  "mi_11": {
+    "message": "Mache sie weniger sichtbar"
+  },
+  "mi_12": {
+    "message": "Größere Zeitsteuerungen"
+  },
+  "mi_13": {
+    "message": "Cursor-Änderung bei Hover deaktivieren"
+  },
+  "mi_17": {
+    "message": "Vollbildschaltfläche hinzufügen (unten rechts)"
+  },
+  "fonts_title": {
+    "message": "Schriftart auswählen:"
+  },
+  "themes_title": {
+    "message": "Thema auswählen:"
+  },
+  "themes_label": {
+    "message": "NEU"
+  },
+  "theme_1": {
+    "message": "Standard (Dunkelgrün)"
+  },
+  "theme_2": {
+    "message": "Hellgrün"
+  },
+  "theme_3": {
+    "message": "Dunkellila"
+  },
+  "theme_4": {
+    "message": "Dunkelrosa (Kätzchen)"
+  },
+  "theme_5": {
+    "message": "Helllila"
+  },
+  "theme_6": {
+    "message": "Dunkelblau"
+  },
+  "theme_7": {
+    "message": "Dunkelrot"
+  },
+  "theme_8": {
+    "message": "Dunkelgelb"
+  },
+  "d_title": {
+    "message": "Spenden halten LichessHelper am Laufen."
+  },
+  "d_subtitle": {
+    "message": "Ich investiere jede Woche Stunden, um Fehler zu beheben, Funktionen hinzuzufügen und zu verbessern sowie auf Benutzerfeedback einzugehen. Ihre Unterstützung ist entscheidend für die fortlaufende Wartung!"
+  },
+  "d_pp": {
+    "message": "Spenden über PayPal"
+  },
+  "d_kofi": {
+    "message": "Unterstützen Sie mich auf Ko-Fi"
+  },
+  "d_card": {
+    "message": "Mit Kredit- oder Debitkarte spenden"
+  },
+  "d_cred__1": {
+    "message": "Sie können LichessHelper auch mit Ihren Freunden teilen oder eine"
+  },
+  "d_cred__2": {
+    "message": "Bewertung hinterlassen"
+  },
+  "d_cred__3": {
+    "message": "Vielen Dank."
+  },
+  "s_title": {
+    "message": "Probleme mit LichessHelper?"
+  },
+  "s_subtitle": {
+    "message": "Hier sind einige Problembehandlungsschritte, die Sie versuchen können:"
+  },
+  "s_res__1": {
+    "message": "Aktualisieren Sie die Lichess-Seite."
+  },
+  "s_res__2": {
+    "message": "Deaktivieren Sie LichessHelper und aktivieren Sie es erneut."
+  },
+  "s_res__3": {
+    "message": "Deaktivieren Sie andere Erweiterungen."
+  },
+  "s_res__4": {
+    "message": "Deinstallieren Sie LichessHelper und führen Sie eine Neuinstallation durch."
+  },
+  "s_res__5": {
+    "message": "Browser-Cache löschen."
+  },
+  "s_emailme": {
+    "message": "Wenn das Problem weiterhin besteht, senden Sie mir bitte eine E-Mail an"
+  },
+  "s_effic": {
+    "message": "Um mir zu helfen, Sie effizienter zu unterstützen, geben Sie bitte folgende Informationen an:"
+  },
+  "s_detail__1": {
+    "message": "Die Version von LichessHelper, die Sie verwenden."
+  },
+  "s_detail__2": {
+    "message": "Ein Screenshot oder Video, das das Problem zeigt."
+  },
+  "s_detail__3": {
+    "message": "Eine ausführliche Beschreibung des Problems."
+  },
+  "s_detail__4": {
+    "message": "Ihr Browser und seine Version (z.B. Firefox 86.0)."
+  },
+  "menu_pboard": {
+    "message": "Figuren / Brett ändern:"
+  },
+  "menu_pieces": {
+    "message": "Figuren auswählen:"
+  },
+  "menu_board": {
+    "message": "Brett auswählen:"
+  },
+  "menu_boardfeat": {
+    "message": "Bretteinstellungen:"
+  },
+  "mi_2": {
+    "message": "Modernes Layout aktivieren"
+  },
+  "mi_14": {
+    "message": "Brettbewegungen scrollen deaktivieren \n(für Trackpads usw.)"
+  },
+  "mi_18": {
+    "message": "Chat unter dem Brett verstecken"
+  },
+  "mi_19": {
+    "message": "Scrollen im Spiel verhindern (100vh-Fix)"
+  }
+}

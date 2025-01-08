@@ -1,13 +1,14 @@
 {
-  "name": "LichessHelper - Improve Lichess Experience",
-  "description": "2023 Lichess extension allows you to set up new themes, pieces, boards, and fonts, remove annoying notifications, popups, and so on!",
-  "version": "1.0.0",
   "manifest_version": 3,
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
+  "version": "2.1.0.0",
   "icons": {
     "128": "/assets/icons/icon128.png"
   },
   "action": {
-    "default_popup": "popup.html",
+    "default_popup": "/content/popup.html",
     "default_icon": {
       "128": "/assets/icons/icon128.png"
     }
@@ -15,8 +16,11 @@
   "web_accessible_resources": [
     {
       "resources": [
+        "/assets/img/logo.svg",
         "/assets/img/lclogo.svg",
         "/assets/img/lclogo_wh.svg",
+        "/assets/img/cub_border.png",
+        "/assets/img/frog.gif",
         "/assets/icons/1.svg",
         "/assets/icons/2.svg",
         "/assets/icons/3.svg",
@@ -60,9 +64,12 @@
         "/assets/graphs/themes/kittens.css",
         "/assets/graphs/themes/srl.css",
         "/assets/graphs/themes/modern.css",
+        "/assets/graphs/themes/amoled.css",
         "/assets/graphs/pieces/anime.css",
         "/assets/graphs/pieces/itchy.css",
         "/assets/graphs/pieces/itchy2.css",
+        "/assets/img/br_main/emerald.png",
+        "/assets/img/br_main/industrial.png",
         "/assets/graphs/pieces/dani_maccari.css",
         "/assets/img/anime_st/wp.png",
         "/assets/img/anime_st/wn.png",
@@ -373,6 +380,8 @@
         "/assets/graphs/boards/dbhc.css",
         "/assets/graphs/boards/jelly.css",
         "/assets/graphs/boards/softbrown.css",
+        "/assets/graphs/boards/emerald.css",
+        "/assets/graphs/boards/industrial.css",
         "/assets/graphs/pieces/pjaworskim_mramor.css",
         "/assets/img/pjaworskim_mramor/wp.png",
         "/assets/img/pjaworskim_mramor/wn.png",
